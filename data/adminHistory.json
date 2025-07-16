@@ -1,0 +1,347 @@
+[
+  {
+    "id": "3442b43b-36ac-46b5-bbb9-188aa6564eb3",
+    "timestamp": "2025-07-10T05:42:40.635Z",
+    "actor": "System",
+    "type": "Initial CEO Admin Created",
+    "description": "System performed: Initial CEO Admin Created",
+    "details": {
+      "email": "admin@dream2build.com"
+    }
+  },
+  {
+    "id": "2310f6e6-72e2-4902-8a42-9d99cf41783f",
+    "timestamp": "2025-07-10T05:45:51.951Z",
+    "actor": "admin@dream2build.com",
+    "type": "User Login",
+    "description": "admin@dream2build.com performed: User Login",
+    "details": {
+      "email": "admin@dream2build.com",
+      "role": "ceo"
+    }
+  },
+  {
+    "id": "92213458-de89-40ee-934f-388e8da0fe33",
+    "timestamp": "2025-07-10T05:56:46.219Z",
+    "actor": "admin@dream2build.com",
+    "type": "User Login",
+    "description": "admin@dream2build.com performed: User Login",
+    "details": {
+      "email": "admin@dream2build.com",
+      "role": "ceo"
+    }
+  },
+  {
+    "id": "3540f655-6ca8-4a60-8944-c80ff9d20c80",
+    "timestamp": "2025-07-10T05:58:27.469Z",
+    "actor": "admin@dream2build.com",
+    "type": "New Admin Added",
+    "description": "admin@dream2build.com performed: New Admin Added",
+    "details": {
+      "email": "leader1@dream2build.com",
+      "role": "leader"
+    }
+  },
+  {
+    "id": "62331500-719a-4d7f-82cd-d1dccb8a9c4a",
+    "timestamp": "2025-07-10T06:00:44.701Z",
+    "actor": "leader1@dream2build.com",
+    "type": "User Login",
+    "description": "leader1@dream2build.com performed: User Login",
+    "details": {
+      "email": "leader1@dream2build.com",
+      "role": "leader"
+    }
+  },
+  {
+    "id": "eb575c07-f76e-4cb7-b118-7d683957abe8",
+    "timestamp": "2025-07-10T06:01:24.754Z",
+    "actor": "leader1@dream2build.com",
+    "type": "Rotation Settings Updated",
+    "description": "leader1@dream2build.com performed: Rotation Settings Updated",
+    "details": {
+      "newInvestment": 10
+    }
+  },
+  {
+    "id": "80fd5797-b1be-4631-89ae-1c3be727d38c",
+    "timestamp": "2025-07-10T06:03:13.618Z",
+    "actor": "System",
+    "type": "New User Signup",
+    "description": "System performed: New User Signup",
+    "details": {
+      "email": "ejeambas@gmail.com",
+      "role": "user"
+    }
+  },
+  {
+    "id": "a5def82f-1752-442d-a2c6-8edf456cbf4d",
+    "timestamp": "2025-07-10T06:03:32.725Z",
+    "actor": "ejeambas@gmail.com",
+    "type": "User Login",
+    "description": "ejeambas@gmail.com performed: User Login",
+    "details": {
+      "email": "ejeambas@gmail.com",
+      "role": "user"
+    }
+  },
+  {
+    "id": "dad36ba8-92e0-4fb4-99a6-343494d32b7e",
+    "timestamp": "2025-07-10T06:03:40.629Z",
+    "actor": "ejeambas@gmail.com",
+    "type": "Payment Submitted",
+    "description": "ejeambas@gmail.com performed: Payment Submitted",
+    "details": {
+      "email": "ejeambas@gmail.com",
+      "method": "cash"
+    }
+  },
+  {
+    "id": "60e521c2-271c-4a4f-aea1-48c095afa51f",
+    "timestamp": "2025-07-10T06:04:00.232Z",
+    "actor": "leader1@dream2build.com",
+    "type": "User Login",
+    "description": "leader1@dream2build.com performed: User Login",
+    "details": {
+      "email": "leader1@dream2build.com",
+      "role": "leader"
+    }
+  },
+  {
+    "id": "3980097b-ee49-46d3-8b29-e81cb6b11a27",
+    "timestamp": "2025-07-10T06:04:16.720Z",
+    "actor": "leader1@dream2build.com",
+    "type": "Payment Validated",
+    "description": "leader1@dream2build.com performed: Payment Validated",
+    "details": {
+      "email": "ejeambas@gmail.com",
+      "validatedBy": "leader1@dream2build.com"
+    }
+  },
+  {
+    "id": "5199c0ea-56a8-49c6-a843-2e6cf6ef2603",
+    "timestamp": "2025-07-10T06:04:35.063Z",
+    "actor": "leader1@dream2build.com",
+    "type": "Participant Added to Rotation",
+    "description": "leader1@dream2build.com performed: Participant Added to Rotation",
+    "details": {
+      "email": "ejeambas@gmail.com"
+    }
+  },
+  {
+    "id": "45e3d5a0-b45c-4f33-a357-df210e4f2221",
+    "timestamp": "2025-07-10T06:04:47.273Z",
+    "actor": "leader1@dream2build.com",
+    "type": "Referral Code Generated",
+    "description": "leader1@dream2build.com performed: Referral Code Generated",
+    "details": {
+      "code": "69480C6D",
+      "generatedFor": "leader1@dream2build.com"
+    }
+  },
+  {
+    "id": "6ed61d97-c8bd-4e75-8879-e9882f335448",
+    "timestamp": "2025-07-10T06:05:16.738Z",
+    "actor": "admin@dream2build.com",
+    "type": "User Login",
+    "description": "admin@dream2build.com performed: User Login",
+    "details": {
+      "email": "admin@dream2build.com",
+      "role": "ceo"
+    }
+  },
+  {
+    "id": "421ee480-a061-4dcc-9ad0-0fe17b589e75",
+    "timestamp": "2025-07-10T06:06:52.833Z",
+    "actor": "System",
+    "type": "New User Signup",
+    "description": "System performed: New User Signup",
+    "details": {
+      "email": "emmanueljeambas@gmail.com",
+      "role": "user"
+    }
+  },
+  {
+    "id": "605b8581-185b-496a-bfa3-bcdb2af4b11b",
+    "timestamp": "2025-07-10T06:07:08.805Z",
+    "actor": "emmanueljeambas@gmail.com",
+    "type": "User Login",
+    "description": "emmanueljeambas@gmail.com performed: User Login",
+    "details": {
+      "email": "emmanueljeambas@gmail.com",
+      "role": "user"
+    }
+  },
+  {
+    "id": "10e2923b-4fec-40f2-8b99-06920b02e16d",
+    "timestamp": "2025-07-10T06:07:18.392Z",
+    "actor": "emmanueljeambas@gmail.com",
+    "type": "Payment Submitted",
+    "description": "emmanueljeambas@gmail.com performed: Payment Submitted",
+    "details": {
+      "email": "emmanueljeambas@gmail.com",
+      "method": "natcash"
+    }
+  },
+  {
+    "id": "f4f03a95-6a37-48f9-84f9-48d3e729694b",
+    "timestamp": "2025-07-10T06:07:34.563Z",
+    "actor": "leader1@dream2build.com",
+    "type": "User Login",
+    "description": "leader1@dream2build.com performed: User Login",
+    "details": {
+      "email": "leader1@dream2build.com",
+      "role": "leader"
+    }
+  },
+  {
+    "id": "110a0f8e-b698-434c-9c65-76467064d1b3",
+    "timestamp": "2025-07-10T06:07:39.446Z",
+    "actor": "leader1@dream2build.com",
+    "type": "Payment Validated",
+    "description": "leader1@dream2build.com performed: Payment Validated",
+    "details": {
+      "email": "emmanueljeambas@gmail.com",
+      "validatedBy": "leader1@dream2build.com"
+    }
+  },
+  {
+    "id": "f629234a-e8e5-401b-a6c2-9a8d30544227",
+    "timestamp": "2025-07-10T06:07:53.013Z",
+    "actor": "leader1@dream2build.com",
+    "type": "Participant Added to Rotation",
+    "description": "leader1@dream2build.com performed: Participant Added to Rotation",
+    "details": {
+      "email": "emmanueljeambas@gmail.com"
+    }
+  },
+  {
+    "id": "9986b5e5-e58e-494f-be53-2479aebb0648",
+    "timestamp": "2025-07-10T06:08:08.045Z",
+    "actor": "leader1@dream2build.com",
+    "type": "Rotation Settings Updated",
+    "description": "leader1@dream2build.com performed: Rotation Settings Updated",
+    "details": {
+      "newInvestment": 10
+    }
+  },
+  {
+    "id": "d2a5ab97-1061-41cf-8025-d6bbe749629f",
+    "timestamp": "2025-07-10T06:08:26.933Z",
+    "actor": "emmanueljeambas@gmail.com",
+    "type": "User Login",
+    "description": "emmanueljeambas@gmail.com performed: User Login",
+    "details": {
+      "email": "emmanueljeambas@gmail.com",
+      "role": "user"
+    }
+  },
+  {
+    "id": "b80b4177-0bbe-4f40-a1cd-879344d17a56",
+    "timestamp": "2025-07-10T06:08:53.264Z",
+    "actor": "ejeambas@gmail.com",
+    "type": "User Login",
+    "description": "ejeambas@gmail.com performed: User Login",
+    "details": {
+      "email": "ejeambas@gmail.com",
+      "role": "user"
+    }
+  },
+  {
+    "id": "6002162d-ac82-4b41-ab35-20199b725502",
+    "timestamp": "2025-07-10T06:09:10.769Z",
+    "actor": "admin@dream2build.com",
+    "type": "User Login",
+    "description": "admin@dream2build.com performed: User Login",
+    "details": {
+      "email": "admin@dream2build.com",
+      "role": "ceo"
+    }
+  },
+  {
+    "id": "f730fb86-0068-40f2-aa36-54526568fd81",
+    "timestamp": "2025-07-10T06:24:49.098Z",
+    "actor": "ejeambas@gmail.com",
+    "type": "User Login",
+    "description": "ejeambas@gmail.com performed: User Login",
+    "details": {
+      "email": "ejeambas@gmail.com",
+      "role": "user"
+    }
+  },
+  {
+    "id": "bf366a93-5531-4f4b-a558-702dfd502d8e",
+    "timestamp": "2025-07-10T06:25:03.653Z",
+    "actor": "leader1@dream2build.com",
+    "type": "User Login",
+    "description": "leader1@dream2build.com performed: User Login",
+    "details": {
+      "email": "leader1@dream2build.com",
+      "role": "leader"
+    }
+  },
+  {
+    "id": "fbcc2bd9-f54d-4d94-ae5a-8f3c8aff22bc",
+    "timestamp": "2025-07-10T06:25:06.490Z",
+    "actor": "leader1@dream2build.com",
+    "type": "Message Deleted",
+    "description": "leader1@dream2build.com performed: Message Deleted",
+    "details": {
+      "messageId": "53ff92b3-8dc6-4905-bf6c-bf31ab7c8cdf"
+    }
+  },
+  {
+    "id": "000e0127-6784-4614-94ec-0e8dd17e5436",
+    "timestamp": "2025-07-10T06:25:11.821Z",
+    "actor": "leader1@dream2build.com",
+    "type": "Message Deleted",
+    "description": "leader1@dream2build.com performed: Message Deleted",
+    "details": {
+      "messageId": "d0a70f2c-758c-4a53-8cb0-cd697efebd4b"
+    }
+  },
+  {
+    "id": "57f195cf-aa90-4572-a66e-7a4adbf8ec54",
+    "timestamp": "2025-07-10T23:03:46.588Z",
+    "actor": "ejeambas@gmail.com",
+    "type": "User Login",
+    "description": "ejeambas@gmail.com performed: User Login",
+    "details": {
+      "email": "ejeambas@gmail.com",
+      "role": "user"
+    }
+  },
+  {
+    "id": "6017a7f5-0989-44e4-9edf-9e9535a899c7",
+    "timestamp": "2025-07-10T23:05:23.163Z",
+    "actor": "admin@dream2build.com",
+    "type": "User Login",
+    "description": "admin@dream2build.com performed: User Login",
+    "details": {
+      "email": "admin@dream2build.com",
+      "role": "ceo"
+    }
+  },
+  {
+    "id": "96da2801-4d95-46d1-bf6e-14372f4b3504",
+    "timestamp": "2025-07-10T23:19:18.969Z",
+    "actor": "emmanueljeambas@gmail.com",
+    "type": "User Login",
+    "description": "emmanueljeambas@gmail.com performed: User Login",
+    "details": {
+      "email": "emmanueljeambas@gmail.com",
+      "role": "user"
+    }
+  },
+  {
+    "id": "eda8858e-c639-4ab3-89ec-f109cc699f6e",
+    "timestamp": "2025-07-11T01:23:35.188Z",
+    "actor": "emmanueljeambas@gmail.com",
+    "type": "User Login",
+    "description": "emmanueljeambas@gmail.com performed: User Login",
+    "details": {
+      "email": "emmanueljeambas@gmail.com",
+      "role": "user"
+    }
+  }
+]
